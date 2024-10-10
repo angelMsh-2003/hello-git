@@ -1,2 +1,1 @@
-print ("helloWord")
-print ("new hello git")
+print ("hello github proyecto in the sky ")
